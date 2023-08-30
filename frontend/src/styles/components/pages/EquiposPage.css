@@ -1,0 +1,26 @@
+.equipos ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.equipos ul li{
+    padding-bottom: 10px;
+}
+
+.equipos ul li a {
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 3px 6px;
+}
+
+.titulo h2 {
+    margin-top: 30px;
+}
+
+.titulo img {
+    max-width: 60%;
+    margin: 0 auto;
+    display: flex;
+}

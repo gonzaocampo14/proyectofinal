@@ -1,0 +1,26 @@
+.formulario{
+    width: 60%;
+    gap: 24px;
+}
+
+.formulario p label {
+    min-width: 80px;
+}
+
+.formulario p input {
+    width: 100%;
+}
+
+.formulario input[type="submit"] {
+    background: #1EDE00;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    font-size: 16px;
+    padding: 6px 20px;
+    width: auto;
+    cursor: pointer;
+}
+
+.formulario input[type="submit"]:hover {
+    background-color: #22FF00;
+}

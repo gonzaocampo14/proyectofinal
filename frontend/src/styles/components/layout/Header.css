@@ -1,0 +1,29 @@
+header {
+    background-color: #159900;
+    padding: 16px;
+    display: flex;
+}
+
+
+header h1 {
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+    margin-left: 10px;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li a {
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+}
