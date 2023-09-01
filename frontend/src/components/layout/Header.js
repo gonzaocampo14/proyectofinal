@@ -11,8 +11,6 @@ const Header = (props) => {
             </div>
             <div className="holder">
                 <ul>
-                    <li><Link to="/login">Iniciar Sesión</Link></li>
-                    <li><Link to="/registro">Registrarse</Link></li>
                     <li><Link to="/contacto">Contacto</Link></li>
                 </ul>
             </div>

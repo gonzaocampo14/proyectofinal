@@ -9,8 +9,6 @@ import HomePage from "./pages/HomePage";
 import NosotrosPage from "./pages/NosotrosPage";
 import EquiposPage from "./pages/EquiposPage";
 import ActualidadPage from "./pages/ActualidadPage";
-import LoginPage from "./pages/LoginPage";
-import RegistroPage from "./pages/RegistroPage";
 import RiverPage from "./pages/RiverPage";
 import BocaPage from "./pages/BocaPage";
 import RojoPage from "./pages/RojoPage";
@@ -30,8 +28,6 @@ function App() {
                 <Nav />
                 <Routes>
                     <Route path="/" element={<HomePage />} />
-                    <Route path="/login" element={<LoginPage />} />
-                    <Route path="/registro" element={<RegistroPage />} />
                     <Route path="/contacto" element={<ContactoPage />} />
                     <Route path="/actualidad" element={<ActualidadPage />} />
                     <Route path="/nosotros" element={<NosotrosPage />} />
