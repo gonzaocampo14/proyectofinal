@@ -15,7 +15,7 @@ import RiverPage from "./pages/RiverPage";
 import BocaPage from "./pages/BocaPage";
 import RojoPage from "./pages/RojoPage";
 import RacingPage from "./pages/RacingPage";
-import ContactoPage from "./pages/contactoPage";
+import ContactoPage from "./pages/ContactoPage";
 
 import './App.css';
 
